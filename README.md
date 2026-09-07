@@ -1,26 +1,21 @@
-# ARCANA Forensics — Offline First. Court-Ready. No Vendor Lock-In.
+# ARCANA Forensics Suite
 
-### Bone Pricing — Lifetime, No Subscription
-💛🖤 We killed $99/yr + $49/mo.
+**Offline-First. Court-Ready. Zero Vendor Lock-In.**
 
-**$35 Paste Trap Kit** (was $499) → https://buy.stripe.com/6oUfZgguGesA8qI0Fj5sA0d  
-**$39 ARCANA Toolkit** (was $99/yr) → https://buy.stripe.com/dRmcN492e70822k9bP5sA0e  
-**$45 Full Bone Bundle — MOST POPULAR** (was $648 + $588/yr) → https://buy.stripe.com/eVq3cua6ifwEbCU4Vz5sA0f
+ARCANA Forensics is a lightweight, automated digital forensics and OSINT toolkit designed for investigators, security teams, clinics, and small businesses. We believe enterprise-grade forensic capabilities shouldn't require mandatory cloud telemetry or expensive monthly subscriptions. 
 
-Same code enterprises use. Everyone gets the same thing. Lifetime. Offline.
+### Why ARCANA?
+* **100% Offline & Private:** No cloud dependencies, no mandatory telemetry, and no data leaves your workstation.
+* **Rapid Triage:** Execute deep Linux forensics, SMB audits, and password health checks in minutes, not hours.
+* **Court-Ready Reporting:** Generates under-5-minute comprehensive reports with strict SHA-256 chain-of-custody logging.
+* **Extensive Parsing:** Includes 200+ artifact parsers and 40+ OSINT modules.
 
-Offline forensic tools for investigators, small biz, clinics, schools. No cloud. No telemetry. No vendor lock-in. Built retired in Melbourne, FL.
+### Licensing & Access
+We use a straightforward, one-time lifetime licensing model. No annual renewals. No surprise fees. 
 
-**We own:** arcana-forensics.com + arcanaforensics.org — Active until Aug 19, 2027 — auto-renew ON.
+**Full ARCANA Forensics Suite — $45 (Lifetime License)**
+* Includes the complete Forensics Orchestrator, LinuxForensics module, nPhoneKit, and full source access.
+* [Get Instant Access Here](https://arcana-forensics.org)
 
-**Live Store:**
-Main: https://arcana-forensics.com | Paste Trap Demo: https://arcana-forensics.com/pastetrap/ | GitHub Pages: https://mitchell5584dm-tech.github.io/Security-Operations-Forensics-Toolkit/
-
-**What you get — Real sizes, court-ready:**
-- **Free 469.1kB:** credential_auditor.py — Linux forensics, SMB audit, password health. Offline triage.
-- **$39 Toolkit:** 200+ parsers, 40+ OSINT, <5min reports, SHA-256 chain-of-custody, dashboard + notifications
-- **$45 Full Bundle:** Everything + forensics-orchestrator + LinuxForensics + nPhoneKit — full source, lifetime
-
-```python
-python credential_auditor.py
-# → HTML report with Overall Risk Score + SHA-256 chain-of-custody.json — offline, court-ready
+---
+*Developed in Melbourne, FL.*
