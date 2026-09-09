@@ -1,8 +1,8 @@
-# ARCANA Forensics Suite
+# Arcana-Forensics Suite
 
 **Offline-First. Court-Ready. Zero Vendor Lock-In.**
 
-ARCANA Forensics is a lightweight, automated digital forensics and OSINT toolkit designed for investigators, security teams, clinics, and small businesses. We believe enterprise-grade forensic capabilities shouldn't require mandatory cloud telemetry or expensive monthly subscriptions. 
+Arcana-Forensics is a lightweight, automated digital forensics and OSINT toolkit designed for investigators, security teams, clinics, and small businesses. We believe enterprise-grade forensic capabilities shouldn't require mandatory cloud telemetry or expensive monthly subscriptions. 
 
 ### Why ARCANA?
 * **100% Offline & Private:** No cloud dependencies, no mandatory telemetry, and no case data ever leaves your workstation.
@@ -13,7 +13,7 @@ ARCANA Forensics is a lightweight, automated digital forensics and OSINT toolkit
 ### Licensing & Access
 We use a straightforward, one-time lifetime licensing model. No annual renewals. No surprise fees. 
 
-**Full ARCANA Forensics Suite — $45 (Lifetime License)**
+**Full Arcana-Forensics Suite — $45 (Lifetime License)**
 * Includes the complete Forensics Orchestrator, LinuxForensics module, nPhoneKit, and full source access.
 * [Get Instant Access Here](https://arcana-forensics.com)
 
