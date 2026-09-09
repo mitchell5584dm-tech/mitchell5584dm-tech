@@ -1,21 +1,21 @@
-# Arcana-Forensics Suite
+# Arcana-Forensics
 
 **Offline-First. Court-Ready. Zero Vendor Lock-In.**
 
-Arcana-Forensics is a lightweight, automated digital forensics and OSINT toolkit designed for investigators, security teams, clinics, and small businesses. We believe enterprise-grade forensic capabilities shouldn't require mandatory cloud telemetry or expensive monthly subscriptions. 
+Arcana-Forensics is a digital forensics and OSINT toolkit that delivers the investigative capabilities of enterprise forensic suites — with the user in full control. Every module runs locally: no cloud dependencies, no telemetry, and case data never leaves your workstation.
 
-### Why ARCANA?
-* **100% Offline & Private:** No cloud dependencies, no mandatory telemetry, and no case data ever leaves your workstation.
-* **Rapid Triage:** Execute deep Linux forensics, SMB audits, and password health checks in minutes, not hours.
-* **Court-Ready Reporting:** Generates under-5-minute comprehensive reports with strict SHA-256 chain-of-custody logging.
-* **Extensive Parsing:** Powered by 200+ artifact parsers and 40+ OSINT modules.
+### Why investigators choose Arcana-Forensics
+* **Full user control:** 100% offline and air-gap capable. Your evidence is never uploaded, shared, or exposed to a third-party breach.
+* **Enterprise-grade capability:** 200+ artifact parsers and 40+ OSINT modules cover the same investigative ground as the large suites.
+* **Court-ready reporting:** Comprehensive reports in under 5 minutes with strict SHA-256 chain-of-custody logging.
+* **Rapid triage:** Deep Linux forensics, SMB audits, and password health checks in minutes, not hours.
 
-### Licensing & Access
-We use a straightforward, one-time lifetime licensing model. No annual renewals. No surprise fees. 
+### Licensing
+Simple, one-time lifetime licenses. No annual renewals. No surprise fees.
 
 **Full Arcana-Forensics Suite — $45 (Lifetime License)**
-* Includes the complete Forensics Orchestrator, LinuxForensics module, nPhoneKit, and full source access.
-* [Get Instant Access Here](https://arcana-forensics.com)
+Includes the complete Forensics Orchestrator, LinuxForensics module, nPhoneKit tooling, and full source access.
+[Get Instant Access](https://arcana-forensics.com)
 
 ---
-*Developed in Melbourne, FL.*
+*Arcana-Forensics · Melbourne, FL*
