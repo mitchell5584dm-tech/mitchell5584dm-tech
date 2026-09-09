@@ -15,7 +15,7 @@ We use a straightforward, one-time lifetime licensing model. No annual renewals.
 
 **Full ARCANA Forensics Suite — $45 (Lifetime License)**
 * Includes the complete Forensics Orchestrator, LinuxForensics module, nPhoneKit, and full source access.
-* [Get Instant Access Here](https://arcana-forensics.org)
+* [Get Instant Access Here](https://arcana-forensics.com)
 
 ---
 *Developed in Melbourne, FL.*
